@@ -1,5 +1,5 @@
 # Photography Workshop
-This website aims to improve on the booking system of clients and photographers so as to have an ample time during executing work.
+This website aims to improve the booking system of clients and photographers to have ample time while doing their job.
 
 # Features
 - Workshop listing and details
@@ -9,8 +9,8 @@ This website aims to improve on the booking system of clients and photographers 
  
  # Languages Used
  - HTML - Structure of the 'divs' and placement of the paragraphs and variables
- - CSS - Front end styling of the website
+ - CSS - Front-end styling of the website
  - JavaScript - Used for the form and buttons functionality to work as a user is using the website and booking.
  
- # Fetch(url)
- I used https://source.unsplash.com/random?pictures to generate for me random pictures. 
+ # Fetch(URL)
+ I used https://source.unsplash.com/random?pictures to generate random pictures. 
